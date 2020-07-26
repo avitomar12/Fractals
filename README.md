@@ -7,9 +7,18 @@ I tried using C,C++,Java,Python to build fractals image.
 Note:-
 
 While executing c and c++ program use lgraph in last during compliation.
-Ex. - gcc example.cpp -lgraph
 
-Output- 
+Example:-
+```bash
+gcc example.cpp -lgraph
+```
+The program which uses complex number library and math library add -lm while compiling the program.
+```bash
+gcc example.c -lgraph -lm
+```
+
+
+# Output- 
 
 * Cantor Set(GRCANTOR.C)
 
