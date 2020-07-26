@@ -60,6 +60,7 @@ Output-
 <img src="./img/julia_set.png">
 
 ## Koch
+
 *koch_quad
 
 <img src="./img/koch_quad.png">
@@ -71,6 +72,7 @@ Output-
 ## Mandelbort
 
 *Mendalbort.cpp
+
 <img src="./img/mendalbort.png">
 
 *mandelbort.c
