@@ -11,47 +11,47 @@ Ex. - gcc example.cpp -lgraph
 
 Output- 
 
-*Cantor Set(GRCANTOR.C)
+* Cantor Set(GRCANTOR.C)
 
 <img src="./img/cantorset.png">
 
-*Cantor Cubes
+* Cantor Cubes
 
 <img src="./img/Cantorcubes.gif">
 
-*carpet.cpp
+* carpet.c
 
 <img src="./img/carpet.png">
 
-*Gasket.c
+* gasket.c
 
 <img src="./img/gasket.png">
 
-*Gasket-new.c
+* gasket-new.c
 
 <img src="./img/gasket-new.png">
 
-*Gasket_thr_point.c 
+* Gasket_thr_point.c 
 
 <img src="./img/gasket_pointwise.png">
 
-*Recursive Circle
+* Recursive Circle
 
 <img src="./img/recursive_circle.png">
 
-*roshetacode.cpp
+* roshetacode.cpp
 
 <img src="./img/roshetacode.png">
 
-*test1.c
+* test1.c
 
 <img src="./img/test1.png">
 
-*Transformation.c
+* Transformation.c
 
 <img src="./img/transformation.png">
 
-*Transformation_single.c
+* Transformation_single.c
 
 <img src="./img/transformation_single.png">
 
@@ -60,19 +60,21 @@ Output-
 <img src="./img/julia_set.png">
 
 ## Koch
-*koch_quad
+
+* koch_quad
 
 <img src="./img/koch_quad.png">
 
-*koch_modified
+* koch_modified
 
 <img src="./img/koch_modified.png">
 
 ## Mandelbort
 
-*Mendalbort.cpp
+* Mendalbort.cpp
+
 <img src="./img/mendalbort.png">
 
-*mandelbort.c
+* mandelbort.c
 
 <img src="./img/mandelbort.png">
