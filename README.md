@@ -17,6 +17,7 @@ The program which uses complex number library and math library add -lm while com
 gcc example.c -lgraph -lm
 ```
 
+
 # Output- 
 
 * Cantor Set(GRCANTOR.C)
@@ -55,7 +56,7 @@ gcc example.c -lgraph -lm
 
 <img src="./img/test1.png">
 
-*Transformation.c
+* Transformation.c
 
 <img src="./img/transformation.png">
 
