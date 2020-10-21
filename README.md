@@ -1,5 +1,9 @@
 # Fractals
 
+The word "fractal" often has different connotations for the lay public as opposed to mathematicians, where the public is more likely to be familiar with fractal art than the mathematical concept. The mathematical concept is difficult to define formally, even for mathematicians, but key features can be understood with a little mathematical background.(Source- Wikipedia)
+
+#About
+
 These program written during course work of MAI-215 Named Fractal Theory.
 Most of these programs are completed. Some of them contain error.
 I tried using C,C++,Java,Python to build fractals image.
